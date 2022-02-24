@@ -7,7 +7,8 @@ Imagem docker com 'Full Cycle Rocks' em Golang utilizando menos de 2MB.
 docker run --rm matheusragoso/fullcycle
 ```
 
-## Desafio #2 - Subir a aplicação sugerida feita em Node de modo que exiba uma lista de nomes do banco de dados.
+## Desafio #2 - Aplicação NodeJS
+Subir a aplicação sugerida feita em Node de modo que exiba uma lista de nomes do banco de dados.
 
 ```
 docker-compose up -d --build
