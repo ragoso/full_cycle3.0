@@ -1,2 +1,2 @@
-# Cull Cycle 3.0
+# Full Cycle 3.0
 Repositório de Desafios do Full Cycle 3.0
